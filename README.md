@@ -19,7 +19,7 @@ among the highest meal type consumed in he Hotel. This brings to mind Resort Hot
 • Distribution Channel is a major factor in boosting hotel bookings. From the dataset, we deduced that Travel Agency/ Tour Operators (TA/TO) were the most used channel,
 But Most Hotels more often than not prefer Direct Bookings due to low acquisition cost and how at least cost are controlled to a minimal favoring A.D.R. Hotels can revamp
 their primary website to be top notch, advertise and encourage direct phone bookings and also even via social platforms.
-\
+
 • Also same way other concepts are key, Finance is important. A simple viz of The A.D.R by year was visualized to ascertain the trend of average revenue the hotels has been
 receiving for each occupied guest room over the years. This enables see how the hotels have been dealing with income. Notice there's a down ward slope for the year 2016 -
 2017.This might be due to low bookings during the year as guests don't use the hotels. This would still fall down in boosting various key areas of the hotel to encourage
